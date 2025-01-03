@@ -1,2 +1,2 @@
 # my-own-cpp
-my online shop
+Its a online store where you can buy limited products
